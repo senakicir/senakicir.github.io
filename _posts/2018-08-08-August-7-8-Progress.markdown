@@ -19,27 +19,27 @@ result = (relative_pos)/(max_z - min_z)
 
 When I make the weight of the lift energy very large (=1), the Liftnet results and the normalized relative estimation results overlap as you expected. 
 
-![small_video]({{ "/assets/progress_videos/2018-08-07-15-47_lift_res.mp4" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-07-15-47_lift_res.mp4)
 
 However, the overall result is not good.
 
-![small_video]({{ "/assets/progress_videos/2018-08-07-15-47_plot3d.mp4" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-07-15-47_plot3d.mp4)
 
 When I make the weights normal however ({'proj': 0.006, 'smooth': 0.496, 'bone': 0.186, 'lift': 0.310} the overall result is still not very good and the relative estimation and Liftnet results do not match. 
 Liftnet vs result (relative):
-![small_video]({{ "/assets/progress_videos/2018-08-07-17-05_lift_res.mp4" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-07-17-05_lift_res.mp4)
 Overall results:
-![small_video]({{ "/assets/progress_videos/2018-08-07-17-05_plot3d.mp4" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-07-17-05_plot3d.mp4)
 The losses look like this:
-![small_video]({{ "/assets/progress_videos/2018-08-07-17-05_loss_53.png" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-07-17-05_loss_53.png)
 
 I've also tried comparing the bone vector directions of my estimation and Liftnet. However, this optimization takes longer (it was already taking long anyway :P) I think the relative estimation vs Liftnet results are already looking better. 
-![small_video]({{ "/assets/progress_videos/2018-08-08-16-06_lift_res.mp4" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-08-16-06_lift_res.mp4)
 The overall estimation as well. 
-![small_video]({{ "/assets/progress_videos/2018-08-08-16-06_plot3d.mp4" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-08-16-06_plot3d.mp4)
 
 However, unfortunately, after a while I get NaN results and the optimization is stopped. I'm playing around with different energy weights but I'm not sure what the problem is. 
 
 Here are the losses at frames 44 and 52 respectively:
-![small_video]({{ "/assets/progress_videos/2018-08-08-16-06_loss_44.png" }})
-![small_video]({{ "/assets/progress_videos/2018-08-08-16-06_loss_52.png" }})
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-08-16-06_loss_44.png)
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-08-16-06_loss_52.png)
