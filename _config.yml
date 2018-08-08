@@ -19,9 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate at EPFL CVLAB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: senakicir
 twitter_username: senakicir
-github_username:  senakicir
-blog_title: Progress Blog
 
 # Build settings
 markdown: kramdown

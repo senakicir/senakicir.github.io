@@ -14,3 +14,43 @@ img[alt="small_video"] {
 #bloglink{
     text-align: center;
 }
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+#pp{
+    max-width: 300px;
+}
+
+/* Split the screen in half */
+.split {
+    display: block;
+    height: 100%;
+    width: 50%;
+  }
+  
+  /* Control the left side */
+.left {
+    float:left;
+    width: 48%;
+    margin:5px; 
+}
+  
+/* Control the right side */
+.right {
+    float:right;
+    width: 48%; 
+    margin:5px; 
+}
+
+.youtubevid{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
