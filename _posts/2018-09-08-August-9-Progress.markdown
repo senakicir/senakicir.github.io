@@ -23,7 +23,18 @@ Therefore, first instead of changing my function, I used the trf method (Trust R
 Here are some results, stay tuned for more! 
 ![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-09-15-00_plot3d.mp4)
 
+--- 
+Update:
+
+I've implemented LM! It is much faster (calibration around 1.7 seconds, flight varying between 150 and 22 seconds). It also gives a lower error value after calibration. I can't tell if the flight performance is good or not. 
+
+Results:
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-09-19-41_plot3d.mp4)
+Some pretty bizarre looking loss visualizations:
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-09-19-41_loss_81.mp4)
+
+One problem: The scipy documentation states "**Method ‘lm’ always uses the ‘2-point’ scheme.'**" This seems I cannot find the jacobian using pytorch and pass it to scipy (instead of 2 point approximation.) like I planned on doing. What should I do? I can still try passing the jacobian to scipy and use trf instead of LM.
+
 Things to do:
-1. Use lm with a function that returns residuals.
-2. Find jac with pytorch, pass to numpy (find jacobian somehow instead of approximating)
-3. Make openpose work with larger images by tweaking with the code
+1. Find jac with pytorch, pass to numpy (find jacobian somehow instead of approximating)
+2. Make openpose work with larger images by tweaking with the code
