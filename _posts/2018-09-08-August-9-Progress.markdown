@@ -18,9 +18,10 @@ Overall result:
 
 On another note, Semih found a minimizer in Scipy that implements LM! It's scipy.optimize.least_squares. However, when I try to use it I get the error (ValueError: Method 'lm' doesn't work when the number of residuals is less than the number of variables.) This is because my function returns a single value as the loss (sum of all my loss terms for all the frames in my window) instead of a vector of residuals.(TODO: return residuals also)
 
-Therefore, first instead of changing my function, I used the trf method (Trust Region Reflective algorithm). I'm also using the 2-point approximation method to find the jacobian (TODO: find jacobian via pytorch). This method works very quickly during calibration mode (~2 seconds of computation time vs ~15 seconds from pytorch's SGD), however it's varies in flight mode (varying between ~300 seconds and 50 seconds.) As for the results, in calibration mode they are the same but in flight mode they are MUCH better (still don't expect too much).
+Therefore, first instead of changing my function, I used the trf method (Trust Region Reflective algorithm). I'm also using the 2-point approximation method to find the jacobian (TODO: find jacobian via pytorch). This method works very quickly during calibration mode (~2 seconds of computation time vs ~15 seconds from pytorch's SGD), however it's varies in flight mode (varying between ~300 seconds and 18 seconds.) As for the results, in calibration mode they are the same but in flight mode they are better (still don't expect too much).
 
-Stay tuned for the results!
+Here are some results, stay tuned for more! 
+![small_video](https://senakicir.ams3.digitaloceanspaces.com/drone/2018-08-09-15-00_plot3d.mp4)
 
 Things to do:
 1. Use lm with a function that returns residuals.
