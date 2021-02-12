@@ -27,6 +27,7 @@ img[alt="small_video"] {
     max-width: 300px;
 }
 
+
 /* Split the screen in half */
 .split {
     display: block;
@@ -48,9 +49,37 @@ img[alt="small_video"] {
     margin:5px; 
 }
 
+
 .youtubevid{
     margin-right: auto;
     margin-left: auto;
     display: block;
 }
 
+
+
+.spanswhole {
+    width:100%; 
+  }
+
+/* Control the left side */
+.leftless {
+float: left;
+width: 28%;
+margin: 5px; }
+
+/* Control the right side */
+.rightmore {
+float: right;
+width: 66%;
+margin: 5px; }
+
+#pub_p {
+align-self:center;
+max-width: 300px; 
+}
+
+#pub_p_small {
+align-self:center;
+max-width: 250px; 
+}
