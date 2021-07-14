@@ -11,7 +11,7 @@ layout: home
         </div>
     </div>
     <div class="split right">
-        <p>Hi there! I'm Sena, a 4th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">CVLAB</a>. My research interests are mainly in computer vision and machine learning, more specifically, motion prediction and active human pose estimation. </p>
+        <p>Hi there! I'm Sena, a 4th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">CVLAB</a>. My research interests are mainly in computer vision and machine learning, more specifically, motion prediction and active human pose estimation. Currently I am on an internship with the Autonomous Systesm group at Microsoft, where I work on visual odometry.</p>
         <p>My undergraduate is from Bilkent University, Electrical and Electronics Engineering. I graduated in <a class="page-link" href="https://senakicir.github.io/bilkent">2017.</a></p>
         <p>
         <div id="bloglink"><h3><a class="page-link" href="https://senakicir.github.io/misc">Misc.</a></h3> </div>
