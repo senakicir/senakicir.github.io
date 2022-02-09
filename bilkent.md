@@ -8,6 +8,5 @@ layout: misc
 <img id="photo" src="https://drive.google.com/uc?id=1-SAbeSOfUaeZQYf639KI73_tpN0bvDku" />
 <img id="photo" src="https://drive.google.com/uc?id=1LxkiH2i_5pxLQNQ8l9BIaDQrKCp9pHZ7" />
 <img id="photo" src="https://drive.google.com/uc?id=1bpnBcK65zX9nBDI59zt3WFNg6sPvCnhb" />
-<img id="photo" src="https://drive.google.com/uc?id=1x9uSs83Q3QAuxQSx-JK6srpnJuPO7n2Z" />
 <img id="photo" src="https://drive.google.com/uc?id=1tvO9tk7g-wRLKCQEpgJLXilbRID2BpmC" />
 <img id="photo" src="https://drive.google.com/uc?id=1x9uSs83Q3QAuxQSx-JK6srpnJuPO7n2Z" />
