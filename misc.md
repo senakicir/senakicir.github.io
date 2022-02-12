@@ -10,11 +10,13 @@ layout: misc
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/-BVOzzTJSC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/SNsRIwtzno0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <hr>
-<p> Watercolor paintings:</p>
+<div>
 <img id="photo" src="https://drive.google.com/uc?id=1ahJBwuKflCc1ptX6JUcjAjc2eLrHdvEL" />
 <img id="photo" src="https://drive.google.com/uc?id=1HjgmYdEwZ2lnbK7KABGTc0iilQroB8LV" />
 <img id="photo" src="https://drive.google.com/uc?id=1axfL7n47eHzcJKqe_6KwDIpMUheoj_uo" />
-<p> Embroidery:</p>
 <img id="photo" src="https://drive.google.com/uc?id=192Lk2LzFCyMvjBKY0oIEC2XJD5_iCwxU" />
+</div>
+<hr>
+
 <p>I also like to review books on <a href="https://www.goodreads.com/senakicir">Goodreads</a> from time to time.</p>
 
