@@ -27,7 +27,7 @@ layout: home
 </th><th></th></tr>
 
 <tr><td  style="padding-right:50px">
-    <img id="pub_p_small" src="https://drive.google.com/uc?id=1VDx2Jy3JJ6vVFatuO7VrUsmCVMUkWWX" />
+    <img id="pub_p_small" src="https://drive.google.com/uc?id=1WueKk5V330OYgvYcVWuz3dcMaDmN2O0b" />
     </td>
     <td>
         <p><h3>3D Pose Based Feedback For Physical Exercises</h3></p>
