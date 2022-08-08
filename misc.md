@@ -10,11 +10,12 @@ layout: misc
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/-BVOzzTJSC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/SNsRIwtzno0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <hr>
-<div>
-<img id="photo" src="https://drive.google.com/uc?id=1ahJBwuKflCc1ptX6JUcjAjc2eLrHdvEL" />
 <img id="photo" src="https://drive.google.com/uc?id=1HjgmYdEwZ2lnbK7KABGTc0iilQroB8LV" />
-<img id="photo" src="https://drive.google.com/uc?id=1axfL7n47eHzcJKqe_6KwDIpMUheoj_uo" />
-<img id="photo" src="https://drive.google.com/uc?id=192Lk2LzFCyMvjBKY0oIEC2XJD5_iCwxU" />
+<img id="photo" src="https://drive.google.com/uc?id=1odt8Bl-Wenz0-cBZCFqt3fisXk5XsmkA" />
+<img id="photo" src="https://drive.google.com/uc?id=1SRFUH1fLwuRwL3aJgK9ivSpB32p-tIX0" />
+<img id="photo" src="https://drive.google.com/uc?id=13sLdaZ4bK7RyK3WK0Z1YezubG_K6yefD" />
+<img id="photo" src="https://drive.google.com/uc?id=1iL_UzsaOm5nKMuglkDIYze3KQU4qtGaw" />
+
 </div>
 <hr>
 

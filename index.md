@@ -11,7 +11,7 @@ layout: home
         </div>
     </div>
     <div class="split right">
-        <p>Hi there! I'm Sena, a 5th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">CVLAB</a>. My research interests are mainly in computer vision and machine learning, more specifically, motion prediction and active human pose estimation. In the summer of 2021, I was on an internship with the Autonomous Systems group at Microsoft, where I worked on visual odometry.</p>
+        <p>Hi there! I'm Sena, a 5th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">Computer Vision Lab (CVLab)</a>. My research interests are mainly in human motion analysis, more specifically, motion prediction and active human pose estimation. In the summer of 2021, I was on an internship with the Autonomous Systems group at Microsoft, where I worked on visual odometry.</p>
         <p>My undergraduate is from Bilkent University, Electrical and Electronics Engineering. I graduated in <a class="page-link" href="https://senakicir.github.io/bilkent">2017.</a></p>
         <p>
         <div id="bloglink"><h3><a class="page-link" href="https://senakicir.github.io/misc">Misc.</a></h3> </div>
@@ -27,13 +27,24 @@ layout: home
 </th><th></th></tr>
 
 <tr><td  style="padding-right:50px">
+    <img id="pub_p_small" src="https://drive.google.com/uc?id=1VDx2Jy3JJ6vVFatuO7VrUsmCVMUkWWX" />
+    </td>
+    <td>
+        <p><h3>3D Pose Based Feedback For Physical Exercises</h3></p>
+        <p><a href="https://arxiv.org/abs/2208.03257">[Pdf]</a><a href="">[Code]</a><a href="https://youtu.be/W3kyyeHe0SI">[Video]</a></p>
+        <p>Ziyi Zhao, <b>Sena Kiciroglu</b>, Hugues Vinzant, Yuan Cheng, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua</p>
+        <p><i>Under Review</i></p>
+        <p>Unsupervised physical training can cause serious injuries if performed incorrectly. We introduce a learning-based framework that identifies the mistakes made by a user and proposes corrective measures for easier and safer individual training.</p>
+</td></tr>
+
+<tr><td  style="padding-right:50px">
     <img id="pub_p_small" src="https://drive.google.com/uc?id=1LiDgvc5CrjQ6tMy5ITu4XlCh8pZSNCKW" />
     </td>
     <td>
         <p><h3>Long Term Motion Prediction Using Keyposes</h3></p>
         <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a></p>
         <p><b>Sena Kiciroglu</b>, Wei Wang, Mathieu Salzmann, Pascal Fua</p>
-        <p><i>Under Review</i></p>
+        <p>3DV 2022 - <b>Oral</b></p>
         <p>We predict diverse and realistic long term (5 second) human motion by making use of "keyposes", the set of poses which we can use to accurately reconstruct the complete sequence.</p>
 </td></tr>
 
@@ -51,7 +62,7 @@ layout: home
         <img id="pub_p_small" src="https://drive.google.com/uc?id=14HtAbR546NQ4jK8FbAdpVlrWo8TsuZH2" />
 </td><td style="border-bottom:0px;" >
         <p><h3>ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture</h3></p>
-        <p><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kiciroglu_ActiveMoCap_Optimized_Viewpoint_Selection_for_Active_Human_Motion_Capture_CVPR_2020_paper.pdf">[Pdf]</a><a href="">[Code]</a></p>
+        <p><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kiciroglu_ActiveMoCap_Optimized_Viewpoint_Selection_for_Active_Human_Motion_Capture_CVPR_2020_paper.pdf">[Pdf]</a><a href="https://github.com/senakicir/ActiveMoCap">[Code]</a><a href="https://youtu.be/Dqv7ZJQi28o">[Video]</a></p>
         <p><b>Sena Kiciroglu</b>, Helge Rhodin, Sudipta N. Sinha, Mathieu Salzmann, Pascal Fua</p>
         <p>CVPR 2020 - <b>Oral</b></p>
         <p>Given a short video sequence, we introduce an algorithm that predicts which viewpoints should be chosen by a moving camera to capture future frames so as to maximize 3D human pose estimation accuracy.</p>
