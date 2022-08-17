@@ -4,6 +4,7 @@
 
 layout: home
 ---
+
 <div>
     <div class="split left">
         <div>
@@ -12,21 +13,24 @@ layout: home
     </div>
     <div class="split right">
         <p>Hi there! I'm Sena, a 5th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">Computer Vision Lab (CVLab)</a>, supervised by Prof. <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a> and Dr.<a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann.</a> My research interests are mainly in human motion analysis, more specifically, motion prediction and active human pose estimation. In the summer of 2021, I was on an internship with the Autonomous Systems group at Microsoft, where I worked on visual odometry.</p>
-        <p>My undergraduate is from Bilkent University, Electrical and Electronics Engineering. I graduated in <a class="page-link" href="https://senakicir.github.io/bilkent">2017.</a></p>
+        <p>My undergraduate is from Bilkent University, Electrical and Electronics Engineering. I graduated in <a class="page-link" href="/bilkent">2017.</a></p>
         <p>
-        <div id="bloglink"><h3><a class="page-link" href="https://senakicir.github.io/misc">Misc.</a></h3> </div>
+        <div id="bloglink"><h3><a class="page-link" href="/misc">Misc.</a></h3> </div>
         </p>
     </div>
 </div>
 
-
 <table class="invisible_table" >
-<tr><th>
 
-<h2 class="spanswhole">Publications:</h2>
-</th><th></th></tr>
+<tr><th colspan="2">
+<h2 class="spanswhole" style="text-align: center; margin-top:20px;">Publications:</h2>
+</th></tr>
+
+
 
 <tr><td  style="padding-right:50px">
+
+
     <img id="pub_p_small" src="https://drive.google.com/uc?id=1WueKk5V330OYgvYcVWuz3dcMaDmN2O0b" />
     </td>
     <td>
@@ -42,7 +46,7 @@ layout: home
     </td>
     <td>
         <p><h3>Long Term Motion Prediction Using Keyposes</h3></p>
-        <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a><a class="page-link" href="https://senakicir.github.io/projects/keyposes">Misc.</a>>[Website]</a></p>
+        <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a><a href="/projects/keyposes">[Website]</a></p>
         <p><b>Sena Kiciroglu</b>, Wei Wang, Mathieu Salzmann, Pascal Fua</p>
         <p>3DV 2022 - <b>Oral</b></p>
         <p>We predict diverse and realistic long term (5 second) human motion by making use of "keyposes", the set of poses which we can use to accurately reconstruct the complete sequence.</p>
@@ -69,6 +73,6 @@ layout: home
 </td></tr>
 
 
-
-
 </table>
+
+
