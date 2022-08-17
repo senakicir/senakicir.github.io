@@ -8,7 +8,7 @@ layout: home
 <div>
     <div class="split left">
         <div>
-        <img id="pp" src="https://drive.google.com/uc?id=1NgnT9U5abIh9mJh61bp6EO0NMsqOIWDP" />
+        <img id="pp" src="https://lh4.googleusercontent.com/Wb9vWlC-QU37fr3X-cTK6Y8BQoxRwpokjxCeu4heSb0mCMv-fwoLRQZrr-XoCA0C5Ag=w2400" />
         </div>
     </div>
     <div class="split right">
