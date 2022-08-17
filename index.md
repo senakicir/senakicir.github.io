@@ -27,7 +27,7 @@ layout: home
 </th></tr>
 
 <tr><td  style="padding-right:50px">
-    <img id="pub_p_small" src="https://drive.google.com/uc?id=1WueKk5V330OYgvYcVWuz3dcMaDmN2O0b" />
+    <img id="pub_p_small" src="https://lh3.googleusercontent.com/yWeppd2g7G1RRGeBA9r2Zh4eZSlKCWswUuow_S69jvsImTdwtLQtHXjhuHjikN8n-VA=w2400" />
     </td>
     <td>
         <p><h3>3D Pose Based Feedback For Physical Exercises</h3></p>
@@ -38,7 +38,7 @@ layout: home
 </td></tr>
 
 <tr><td  style="padding-right:50px">
-    <img id="pub_p_small" src="https://drive.google.com/uc?id=1LiDgvc5CrjQ6tMy5ITu4XlCh8pZSNCKW" />
+    <img id="pub_p_small" src="https://lh5.googleusercontent.com/mey6OuhGhJa2k-q9aKVRZa7OmUCTUWIBRBxY5dSj-pMCwp4wIfFFk-k5sJxcRgv-ne8=w2400" />
     </td>
     <td>
         <p><h3>Long Term Motion Prediction Using Keyposes</h3></p>
@@ -49,7 +49,8 @@ layout: home
 </td></tr>
 
 <tr><td style="padding-right:50px">
-        <img id="pub_p" src="https://drive.google.com/uc?id=1ShdlFIiXvNlUdZJlc-fbUwQg_3iR29li" />
+        <img id="pub_p" src="https://lh6.googleusercontent.com/xjDrdnW2AfgaYBb2HQPNxV-R3xhQmiNGDfD20hd8zMPZzVpQ8QJG7lGt3_2lkeeDe48=w2400
+" />
 </td><td>
         <p><h3>Motion Prediction Using Temporal Inception Module</h3></p>
         <p><a href="https://openaccess.thecvf.com/content/ACCV2020/papers/Lebailly_Motion_Prediction_Using_Temporal_Inception_Module_ACCV_2020_paper.pdf">[Pdf]</a><a href="https://github.com/tileb1/motion-prediction-tim">[Code]</a></p>
@@ -59,7 +60,7 @@ layout: home
 </td></tr>
 
 <tr><td  style="border-bottom:0px;" >
-        <img id="pub_p_small" src="https://drive.google.com/uc?id=14HtAbR546NQ4jK8FbAdpVlrWo8TsuZH2" />
+        <img id="pub_p_small" src="https://lh6.googleusercontent.com/pUvF1Mls9SEsLMbDPmA2Fd998wrnJmpZv1qICZW9dgfG2tv4MZlan1VqbhIy5Yscm-w=w2400" />
 </td><td style="border-bottom:0px;" >
         <p><h3>ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture</h3></p>
         <p><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kiciroglu_ActiveMoCap_Optimized_Viewpoint_Selection_for_Active_Human_Motion_Capture_CVPR_2020_paper.pdf">[Pdf]</a><a href="https://github.com/senakicir/ActiveMoCap">[Code]</a><a href="https://youtu.be/Dqv7ZJQi28o">[Video]</a></p>
