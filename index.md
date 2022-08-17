@@ -26,11 +26,7 @@ layout: home
 <h2 class="spanswhole" style="text-align: center; margin-top:20px;">Publications:</h2>
 </th></tr>
 
-
-
 <tr><td  style="padding-right:50px">
-
-
     <img id="pub_p_small" src="https://drive.google.com/uc?id=1WueKk5V330OYgvYcVWuz3dcMaDmN2O0b" />
     </td>
     <td>

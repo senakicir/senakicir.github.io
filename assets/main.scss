@@ -1,8 +1,6 @@
-
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
 
 @import "minima";
 
@@ -61,12 +59,6 @@ img[alt="small_video"] {
 }
 
 
-.centered{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .youtubevid{
     margin-right: auto;
     margin-left: auto;
@@ -90,7 +82,8 @@ margin: 5px; }
 .rightmore {
 float: right;
 width: 66%;
-margin: 5px; }
+margin: 5px; 
+}
 
 #pub_p {
 align-self:center;
@@ -145,16 +138,13 @@ padding-right: 30px;
 padding-top: 20px;
 padding-bottom: 20px;
 text-align:justify;
-
 margin-top: 20px;
 margin-bottom: 20px;
-
 border-radius: 15px;
 }
     
 .div_gray {
 background: #f1f1f1;
-
 }
 
 .div_aligned {
