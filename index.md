@@ -11,7 +11,7 @@ layout: home
         </div>
     </div>
     <div class="split right">
-        <p>Hi there! I'm Sena, a 5th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">Computer Vision Lab (CVLab)</a>. My research interests are mainly in human motion analysis, more specifically, motion prediction and active human pose estimation. In the summer of 2021, I was on an internship with the Autonomous Systems group at Microsoft, where I worked on visual odometry.</p>
+        <p>Hi there! I'm Sena, a 5th year PhD Candidate in EPFL <a href="http://cvlab.epfl.ch">Computer Vision Lab (CVLab)</a>, supervised by Prof. <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a> and Dr.<a href="https://people.epfl.ch/mathieu.salzmann"> Mathieu Salzmann.</a> My research interests are mainly in human motion analysis, more specifically, motion prediction and active human pose estimation. In the summer of 2021, I was on an internship with the Autonomous Systems group at Microsoft, where I worked on visual odometry.</p>
         <p>My undergraduate is from Bilkent University, Electrical and Electronics Engineering. I graduated in <a class="page-link" href="https://senakicir.github.io/bilkent">2017.</a></p>
         <p>
         <div id="bloglink"><h3><a class="page-link" href="https://senakicir.github.io/misc">Misc.</a></h3> </div>
@@ -42,7 +42,7 @@ layout: home
     </td>
     <td>
         <p><h3>Long Term Motion Prediction Using Keyposes</h3></p>
-        <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a></p>
+        <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a><a class="page-link" href="https://senakicir.github.io/projects/keyposes">Misc.</a>>[Website]</a></p>
         <p><b>Sena Kiciroglu</b>, Wei Wang, Mathieu Salzmann, Pascal Fua</p>
         <p>3DV 2022 - <b>Oral</b></p>
         <p>We predict diverse and realistic long term (5 second) human motion by making use of "keyposes", the set of poses which we can use to accurately reconstruct the complete sequence.</p>
