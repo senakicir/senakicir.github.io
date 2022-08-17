@@ -4,18 +4,18 @@ layout: blank
 
 <h1 style="text-align: center;"> Long Term Motion Prediction Using Keyposes </h1>
 
-<h2 style="text-align: center;"><a class="page-link" href="https://senakicir.github.io/">Sena Kiciroglu</a>, <a class="page-link" href="https://weiwangtrento.github.io/">Wei Wang</a>, <a class="page-link" href="https://people.epfl.ch/mathieu.salzmann">Mathieu Salzmann</a>, <a class="page-link" href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a></h2>
+<h2 style="text-align: center;"><a class="page-link" href="https://senakicir.github.io/">Sena Kiciroglu</a><sup>1</sup>, <a class="page-link" href="https://weiwangtrento.github.io/">Wei Wang</a><sup>1,2</sup>, <a class="page-link" href="https://people.epfl.ch/mathieu.salzmann">Mathieu Salzmann</a><sup>1,3</sup>, <a class="page-link" href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a><sup>1</sup></h2>
 
 <h3 style="text-align: center;"> 
-CVLab, EPFL, Switzerland <br>
-MHUG, University of Trento, Italy <br>
-Clearspace, Switzerland </h3>
+<sup>1</sup> CVLab, EPFL, Switzerland <br>
+<sup>2</sup> MHUG, University of Trento, Italy <br>
+<sup>3</sup> Clearspace, Switzerland </h3>
 
 <div class="centered_div big">
 
-<div class="div_sidebyside"><img src="https://drive.google.com/uc?id=1qIRO07U7fpo4Nq-y89v8SJa2M4UxLQ6-"></div>
-<div class="div_sidebyside"><img src="https://drive.google.com/uc?id=1Yc_9t3vuAD3aqvDEV1yTNm6Np5rYyqoR"></div>
-<div class="div_sidebyside"><img src="https://drive.google.com/uc?id=1SHHOqY1MH-x-Vdsj7GuDcAIaC0mZ-Zex"></div>
+<div class="div_sidebyside"><img src="https://lh4.googleusercontent.com/7uTSvpyjHR-PdHWJzORYi2VZIsv1D5H4Ocnswk0zVJ8P7n5xc-c6KGNUQRN6ni8dNGA=w2400"></div>
+<div class="div_sidebyside"><img src="https://lh5.googleusercontent.com/ZB88A6mvFp-4O-zGKMGNDU1FV5H5QA8_n8qvWt7eyLa_rRpwJKYQ8r4Kv47xZMSRtco=w2400"></div>
+<div class="div_sidebyside"><img src="https://lh6.googleusercontent.com/8u5qOkDzExfHNz5YS-AInl5nVgMNgngcU0S-wM0wkEOGXsmQKQo3kSqq2HEA2-Hdfv8=w2400"></div>
 </div>
 
 <div class="centered_div big" style="padding-top:25px;">
@@ -24,10 +24,9 @@ Clearspace, Switzerland </h3>
 <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div>
 </div>
 
-<img src="https://drive.google.com/uc?id=101iZGLME9ajUCwd1SeWTHbITVrBZYuCy" style="display:block; margin:auto; width: 80%; max-width: 80%; height:auto;">
+<img src="https://lh3.googleusercontent.com/SjxiiikGNRJVxcS7W-HzByorS83OluYQ2_v9nVtGxr6cQWjXtpQI5wXU1JQ1-dlxy64=w2400" style="display:block; margin:auto; width: 75%; max-width: 75%; height:auto;">
 
 <div class="div_text">
-
 <h1 style="text-align: center;">Abstract</h1>
 Long term human motion prediction is essential in safety-critical applications such as human-robot interaction and autonomous driving. In this paper we show that to achieve long term forecasting, predicting human pose at every time instant is unnecessary. Instead, it is more effective to predict a few keyposes and approximate intermediate ones by interpolating the keyposes. <br><br>
 
@@ -46,7 +45,7 @@ Motion prediction is an essential component in safety-critical applications, suc
 <div class="div_text div_gray">
 <h3> Keyposes </h3>
 
-<div style="width: 80%; display:block; margin:auto; padding-bottom:2px;"><img style="margin:5px; border-radius:10px;" src="https://drive.google.com/uc?id=1oQIbFwesOnt41pKjlWRg26xMT_Yysy-F"></div>
+<div style="width: 80%; display:block; margin:auto; padding-bottom:2px;"><img style="margin:5px; border-radius:10px;" src="https://lh6.googleusercontent.com/Z_Sa7pVsInhixF5A-tA2VPx7VYL_s841GFPpvDdoPWa_5uw_74VI-1ptQiaz5dxhsvA=w2400"></div>
 <p class="fig_caption" style="width: 80%; padding-bottom:10px"> Figure: Distribution of keyposes in sequence. Plots show the x, y, and z coordinates of a single joint across time.</p>
 <div style="width: 100%; display:inline-block;">
 Human motion follows patterns that are well-represented by a <b>few essential poses</b> in the sequence. We call such poses "keyposes". By interpolating between the keyposes, we can reconstruct the original sequence. Therefore, it is sufficient to only predict the keyposes in the sequence. We extract the keyposes by determining the poses which yield <b>minimum L2 error</b> when used to reconstruct the original sequence.</div>
@@ -54,7 +53,7 @@ Human motion follows patterns that are well-represented by a <b>few essential po
 
 <div class="div_text div_gray">
 <div class="div_aligned">
-<div style="width: 35%; display:inline-block; vertical-align:middle;"><img style="margin:5px; width:85%;border-radius:10px;" src="https://drive.google.com/uc?id=1zFb-oKvE_qQZXzpb4yGBWGaTZHSqMsDy"> </div>
+<div style="width: 35%; display:inline-block; vertical-align:middle;"><img style="margin:5px; width:85%;border-radius:10px;" src="https://lh6.googleusercontent.com/2W59IspHQFr65kN4HIZDBfRYmjRuUTx6a62-Tz8nVKC_3x3swflRTeVAJZupeOH062s=w2400"> </div>
 <div style="width: 65%; display:inline-block;"> 
 <h3 style="text-align: right;"> Predicting Keyposes</h3>
 
