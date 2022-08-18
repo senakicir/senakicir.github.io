@@ -24,7 +24,7 @@ layout: blank
 <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div>
 </div>
 
-<img src="https://lh3.googleusercontent.com/t81cOo7BSaChnp8qs3IthGiWEvE2oPVQVGc4MxtrmDRUeNUBHkLmQ79__em6itC446U=w2400" style="display:block; margin:auto; width: 75%; max-width: 75%; height:auto;">
+<img src="https://lh4.googleusercontent.com/wHWR_HpkrH4UhS55Q6eY1wFc_SotTWEYkWvKqSTIVhPTkZ4SYMPHwEEEYE1W1n8XjjY=w2400" style="display:block; margin:auto; width: 75%; max-width: 75%; height:auto;">
 
 <div class="div_text">
 <h1 style="text-align: center;">Abstract</h1>
