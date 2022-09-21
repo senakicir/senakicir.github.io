@@ -31,9 +31,9 @@ layout: home
     </td>
     <td>
         <p><h3>3D Pose Based Feedback For Physical Exercises</h3></p>
-        <p><a href="https://arxiv.org/abs/2208.03257">[Pdf]</a><a href="">[Code]</a><a href="https://youtu.be/W3kyyeHe0SI">[Video]</a></p>
+        <p><a href="https://arxiv.org/abs/2208.03257">[Pdf]</a><a href="">[Code]</a><a href="https://youtu.be/W3kyyeHe0SI">[Video]</a><a href="/projects/exercise_feedback">[Website]</a></p>
         <p>Ziyi Zhao, <b>Sena Kiciroglu</b>, Hugues Vinzant, Yuan Cheng, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua</p>
-        <p><i>Under Review</i></p>
+        <p><i>ACCV 2022</i></p>
         <p>Unsupervised physical training can cause serious injuries if performed incorrectly. We introduce a learning-based framework that identifies the mistakes made by a user and proposes corrective measures for easier and safer individual training.</p>
 </td></tr>
 
@@ -42,7 +42,7 @@ layout: home
     </td>
     <td>
         <p><h3>Long Term Motion Prediction Using Keyposes</h3></p>
-        <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a><a href="/projects/keyposes">[Website]</a></p>
+        <p><a href="https://arxiv.org/pdf/2012.04731.pdf">[Pdf]</a><a href="">[Code]</a><a href="https://youtu.be/hsHvKUm5GuU">[Video]</a><a href="/projects/keyposes">[Website]</a></p>
         <p><b>Sena Kiciroglu</b>, Wei Wang, Mathieu Salzmann, Pascal Fua</p>
         <p>3DV 2022 - <b>Oral</b></p>
         <p>We predict diverse and realistic long term (5 second) human motion by making use of "keyposes", the set of poses which we can use to accurately reconstruct the complete sequence.</p>

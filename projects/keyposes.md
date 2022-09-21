@@ -21,7 +21,7 @@ layout: blank
 <div class="centered_div big" style="padding-top:25px;">
 <div class="div_rounded_corners"><a href="https://arxiv.org/pdf/2012.04731.pdf" style="color: #fdfdfd;">arXiv</a></div>
 <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Code</a></div>
-<div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div>
+<div class="div_rounded_corners"><a href="https://youtu.be/hsHvKUm5GuU" style="color: #fdfdfd;">Video</a></div>
 </div>
 
 <img src="https://lh4.googleusercontent.com/wHWR_HpkrH4UhS55Q6eY1wFc_SotTWEYkWvKqSTIVhPTkZ4SYMPHwEEEYE1W1n8XjjY=w2400" style="display:block; margin:auto; width: 75%; max-width: 75%; height:auto;">
@@ -55,7 +55,7 @@ Human motion follows patterns that are well-represented by a <b>few essential po
 <div class="div_aligned">
 <div style="width: 35%; display:inline-block; vertical-align:middle;"><img style="margin:5px; width:85%;border-radius:10px;" src="https://lh6.googleusercontent.com/2W59IspHQFr65kN4HIZDBfRYmjRuUTx6a62-Tz8nVKC_3x3swflRTeVAJZupeOH062s=w2400"> </div>
 <div style="width: 65%; display:inline-block;"> 
-<h3 style="text-align: right;"> Predicting Keyposes</h3>
+<h3 style="text-align: right;">Predicting Keyposes</h3>
 
 We cluster and label the keyposes and turn motion prediction into a <b>classification</b> problem. This shifts the focus on the transition from one keypose label to another and avoid accumulating errors. We have designed a GRU based framework for keypose prediction. Moreover, by sampling the predicted logits during inference we can generate <b>diverse future motions</b>. 
 </div>
