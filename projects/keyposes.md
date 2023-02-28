@@ -20,7 +20,7 @@ layout: blank
 
 <div class="centered_div big" style="padding-top:25px;">
 <div class="div_rounded_corners"><a href="https://arxiv.org/pdf/2012.04731.pdf" style="color: #fdfdfd;">arXiv</a></div>
-<div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Code</a></div>
+<div class="div_rounded_corners"><a href="https://github.com/senakicir/keypose-prediction" style="color: #fdfdfd;">Code</a></div>
 <div class="div_rounded_corners"><a href="https://youtu.be/hsHvKUm5GuU" style="color: #fdfdfd;">Video</a></div>
 </div>
 

@@ -20,7 +20,7 @@ layout: blank
 
 <div class="centered_div big" style="padding-top:25px;">
 <div class="div_rounded_corners"><a href="https://arxiv.org/abs/2208.03257" style="color: #fdfdfd;">arXiv</a></div>
-<div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Code</a></div>
+<div class="div_rounded_corners"><a href="https://github.com/Jacoo-Zhao/3D-Pose-Based-Feedback-For-Physical-Exercises" style="color: #fdfdfd;">Code</a></div>
 <div class="div_rounded_corners"><a href="https://youtu.be/W3kyyeHe0SI" style="color: #fdfdfd;">Video</a></div>
 </div>
 
