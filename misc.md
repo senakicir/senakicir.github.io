@@ -11,7 +11,7 @@ layout: misc
 <!-- <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/SNsRIwtzno0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div> -->
 <div>
 <img id="photo" src="https://lh6.googleusercontent.com/uiAYqDBarfagVoU8_IsntZgc3Mg6QRlrzm7AGrReQ_NiySDsq56j4HXM-37Dc5y4p0Y=w2400" />
-<img id="photo" src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaAA_f0-f3AQMUHGgjvp9hZbwFXIC3AerBnDVg0gVol7wcUEcDwVS_xgdPKMh1r1_6mxVZ7L5AifBGU_p_duJpqg-1ZRow=s1600" />
+<img id="photo" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQpsBUScRHoyUyTWph8ANDuN7R6UF2py4rrqljWCs7UY7NIaNqINDd90z_DsYiwqC2O6JE9lgNoeivDz8xXzbEgpsKFhw=s1600" />
 <img id="photo" src="https://lh4.googleusercontent.com/P7IzJ5Rv2IbMq7mnqyBfvKy-E_splz8yb8rAcl2FaS2g9gZxpvPHhL6Kx6XZbEc8HZw=w2400" />
 <img id="photo" src="https://lh3.googleusercontent.com/eGwQonhIukeDMM2ns4MhrIwdceP5uLHULEEjlenlEY2Lurd4dj9Iu8cJCAwnw7q_fBU=w2400" />
 </div>
