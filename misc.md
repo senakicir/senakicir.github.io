@@ -11,15 +11,10 @@ layout: misc
 <!-- <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/SNsRIwtzno0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div> -->
 <div>
 <img id="photo" src="https://lh6.googleusercontent.com/uiAYqDBarfagVoU8_IsntZgc3Mg6QRlrzm7AGrReQ_NiySDsq56j4HXM-37Dc5y4p0Y=w2400" />
-<img id="photo" src="https://drive.google.com/uc?export=view&id=125yYfSkciaQhgsoQJUB-7bUKafMRGLHo" />
+<img id="photo" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZhkv8iVDo5o1QHyviQExMZCZaNIPHRx2K1vA-psGjYM3yE5B-muw7H20YZo9LO1F3EhyySB3wmG5GJI-2-0T9QP8FHqw=s1600" />
 <img id="photo" src="https://lh4.googleusercontent.com/P7IzJ5Rv2IbMq7mnqyBfvKy-E_splz8yb8rAcl2FaS2g9gZxpvPHhL6Kx6XZbEc8HZw=w2400" />
 <img id="photo" src="https://lh3.googleusercontent.com/eGwQonhIukeDMM2ns4MhrIwdceP5uLHULEEjlenlEY2Lurd4dj9Iu8cJCAwnw7q_fBU=w2400" />
 </div>
 <hr class="hr_style">
 
 <p>I also like to review books on <a href="https://www.goodreads.com/senakicir">Goodreads</a> from time to time.</p>
-
-<!-- https://drive.google.com/file/d/1v2VMPJyzTzW9HGSy_9QIacu41fE0lFVY/view?usp=sharing
-After: https://drive.google.com/uc? export=view&id=1v2VMPJyzTzW9HGSy_9QIacu41fE0lFVY
-https://drive.google.com/file/d/125yYfSkciaQhgsoQJUB-7bUKafMRGLHo/view?usp=share_link
-https://drive.google.com/uc?export=view&id=125yYfSkciaQhgsoQJUB-7bUKafMRGLHo -->
