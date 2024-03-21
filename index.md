@@ -21,7 +21,5 @@ layout: home
         <div id="bloglink"><h3><a class="page-link" href="/misc">Misc.</a></h3> 
         </div>
     </p>
-</div>
-
 
 
