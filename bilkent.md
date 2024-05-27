@@ -5,6 +5,6 @@
 layout: misc
 ---
 
-<img id="photo" src="https://lh4.googleusercontent.com/ABdJc6qB4bL-Ju0kjyxrMAr8YHWbpgjwzZq_58eL5IuxTySJhn99wi7UsS4WcexZbcc=w2400" />
-<img id="photo" src="https://lh3.googleusercontent.com/44XVakZYNWfbik8hTPTqiTppZ5jfuE67WMKOlZFbdrceEvdWtsdykItqCdbp7qezo0E=w2400" />
-<img id="photo" src="https://lh6.googleusercontent.com/2_yoHje8AGbN6Bs0TPkRZg1Pl9zBEidPN6JKE4dCi_hwQhMifmxxE1hgOX5gdFfUNqk=w2400" />
+<iframe src="https://drive.google.com/file/d/156HGCrXldXtmXpO_OgdOhYBOd06lWZU_/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tvO9tk7g-wRLKCQEpgJLXilbRID2BpmC/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1LxkiH2i_5pxLQNQ8l9BIaDQrKCp9pHZ7/preview" width="640" height="480" allow="autoplay"></iframe>
