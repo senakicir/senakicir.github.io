@@ -10,11 +10,15 @@ layout: misc
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/-BVOzzTJSC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <!-- <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/SNsRIwtzno0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div> -->
 <div>
-<img id="photo" src="https://lh6.googleusercontent.com/uiAYqDBarfagVoU8_IsntZgc3Mg6QRlrzm7AGrReQ_NiySDsq56j4HXM-37Dc5y4p0Y=w2400" />
-<img id="photo" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZhkv8iVDo5o1QHyviQExMZCZaNIPHRx2K1vA-psGjYM3yE5B-muw7H20YZo9LO1F3EhyySB3wmG5GJI-2-0T9QP8FHqw=s1600" />
-<img id="photo" src="https://lh4.googleusercontent.com/P7IzJ5Rv2IbMq7mnqyBfvKy-E_splz8yb8rAcl2FaS2g9gZxpvPHhL6Kx6XZbEc8HZw=w2400" />
-<img id="photo" src="https://lh3.googleusercontent.com/eGwQonhIukeDMM2ns4MhrIwdceP5uLHULEEjlenlEY2Lurd4dj9Iu8cJCAwnw7q_fBU=w2400" />
+<iframe src="https://drive.google.com/file/d/125yYfSkciaQhgsoQJUB-7bUKafMRGLHo/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/13sLdaZ4bK7RyK3WK0Z1YezubG_K6yefD/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1x7yYprEUsn_Mkf6gOi-yZElFvBvtvFLI/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1HjgmYdEwZ2lnbK7KABGTc0iilQroB8LV/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1TCsv3NnZBvOEVErGPb594HV3bk-aPBDz/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1_HqwXNd1uAPNPMleQiKG8tFLMjAhXLDa/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1iL_UzsaOm5nKMuglkDIYze3KQU4qtGaw/preview" width="640" height="480" allow="autoplay"></iframe>
+
 </div>
 <hr class="hr_style">
 
-<p>I also like to review books on <a href="https://www.goodreads.com/senakicir">Goodreads</a> from time to time.</p>
+<p>I also like to review books on <a href="https://www.goodreads.com/senakicir">Goodreads</a> from time to time, <a class="page-link" href="/book_reviews">here</a> is a list.</p>
