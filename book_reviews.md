@@ -11,7 +11,7 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 [2023.12.26 - Lucy by the Sea - Elizabeth Strout](https://www.goodreads.com/review/show/5179153792)
 
-[2023.09.24 - Oh William! - Elizabeth Strout](https://www.goodreads.com/review/show/4578640555): This book is formative to me somehow.
+[2023.09.24 - Oh William! - Elizabeth Strout](https://www.goodreads.com/review/show/4578640555)
 
 [2023.09.11 - Anything Is Possible - Elizabeth Strout](https://www.goodreads.com/review/show/4864977848)
 
@@ -23,7 +23,7 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 ### Kurt Vonnegut
 
-[2019.09.11 - If This Isn't Nice, What Is? - Kurt Vonnegut](https://www.goodreads.com/review/show/2509128966)
+[2019.09.11 - If This Isn't Nice, What Is? - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/2509128966)
 
 [2016.05.22 - Happy Birthday, Wanda June - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/1645522618)
 
