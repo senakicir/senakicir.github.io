@@ -29,7 +29,7 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 ### Non-Fiction
 
-[2023.06.06 - Under the Sky We Make - Kimberly Nichols](https://www.goodreads.com/review/show/4932846775): I wish I hadn't read this book, I was happier when I was ignorant.
+[2023.06.06 - Under the Sky We Make - Kimberly Nicholas](https://www.goodreads.com/review/show/4932846775)
 
 [2022.12.15 - Islam: A Short History - Karen Armstrong](https://www.goodreads.com/review/show/4729738248)
 
