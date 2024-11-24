@@ -45,6 +45,8 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 ### Fiction
 
+[2024.11.18 - The Brothers Karamazov - Fyodor Dostoyevski](https://www.goodreads.com/review/show/6740438885)
+
 [2024.08.06 - Catcher in the Rye - J.D. Salinger](https://www.goodreads.com/review/show/687862351)
 
 [2024.06.01 - Martin Eden - Jack London](https://www.goodreads.com/review/show/1730365943)
