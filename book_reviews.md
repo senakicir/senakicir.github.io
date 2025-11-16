@@ -9,6 +9,10 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 ### Elizabeth Strout
 
+[2025.11.16 - Tell Me Everything - Elizabeth Strout](https://www.goodreads.com/review/show/6923353667)
+
+[2025.06.12 - Olive Kitteridge - Elizabeth Strout](https://www.goodreads.com/review/show/4864975832)
+
 [2023.12.26 - Lucy by the Sea - Elizabeth Strout](https://www.goodreads.com/review/show/5179153792)
 
 [2023.09.24 - Oh William! - Elizabeth Strout](https://www.goodreads.com/review/show/4578640555)
@@ -23,11 +27,15 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 ### Kurt Vonnegut
 
+[2025.10.25 - Slaughterhouse Five - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/7130407279)
+
 [2019.09.11 - If This Isn't Nice, What Is? - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/2509128966)
 
 [2016.05.22 - Happy Birthday, Wanda June - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/1645522618)
 
 ### Non-Fiction
+
+[2025.04.06 - The Emperor of All Maladies - Siddhartha Mukherjee](https://www.goodreads.com/review/show/6792386614)
 
 [2024.08.11 - Quantum Supremacy - Michio Kaku](https://www.goodreads.com/review/show/6543356209)
 
@@ -44,6 +52,10 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 [2020.12.27 - The Kon-Tiki Expedition - Thor Heyerdahl](https://www.goodreads.com/review/show/3664540181)
 
 ### Fiction
+
+[2025.09.01 - Drive Your Plow Over The Bones Of The Dead - Olga Tokarczuk](https://www.goodreads.com/review/show/7717085096)
+
+[2025.02.06 - The Unbearable Lightness of Being - Milan Kundera](https://www.goodreads.com/review/show/6671286025)
 
 [2024.11.18 - The Brothers Karamazov - Fyodor Dostoyevski](https://www.goodreads.com/review/show/6740438885)
 
