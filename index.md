@@ -7,7 +7,7 @@ layout: home
 
 <div class="split left">
     <div>
-    <img id="pp" src="https://lh4.googleusercontesknt.com/1cBGupOmXjHfYer6aK7pnQ0UOdz5ofXmo"/>
+    <img id="pp" src="https://lh3.googleusercontent.com/d/1cBGupOmXjHfYer6aK7pnQ0UOdz5ofXmo"/>
     </div>
 </div>
 <div class="split right">
