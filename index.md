@@ -23,5 +23,3 @@ layout: home
         </div>
     </p>
 
-
-
