@@ -9,14 +9,16 @@ I like to review books on <a href="https://www.goodreads.com/senakicir">Goodread
 
 And some more amateur stuff I've made over the years:
 
+<a href="http://senakicir.github.io/solipsist">The Solipsist</a> 
+
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/UDZUCS-U8dQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <div class="youtubevid"><iframe width="560" height="315" src="https://www.youtube.com/embed/-BVOzzTJSC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-<div>
-<iframe src="https://drive.google.com/file/d/1x7yYprEUsn_Mkf6gOi-yZElFvBvtvFLI/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1HjgmYdEwZ2lnbK7KABGTc0iilQroB8LV/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1_HqwXNd1uAPNPMleQiKG8tFLMjAhXLDa/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/125yYfSkciaQhgsoQJUB-7bUKafMRGLHo/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1TCsv3NnZBvOEVErGPb594HV3bk-aPBDz/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/13sLdaZ4bK7RyK3WK0Z1YezubG_K6yefD/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1iL_UzsaOm5nKMuglkDIYze3KQU4qtGaw/preview" width="640" height="480" allow="autoplay"></iframe>
+<div style="text-align: center; align-items: center">
+<iframe src="https://drive.google.com/file/d/1x7yYprEUsn_Mkf6gOi-yZElFvBvtvFLI/preview" width="640" height="480" ></iframe>
+<iframe src="https://drive.google.com/file/d/1HjgmYdEwZ2lnbK7KABGTc0iilQroB8LV/preview" width="640" height="480" ></iframe>
+<iframe src="https://drive.google.com/file/d/1_HqwXNd1uAPNPMleQiKG8tFLMjAhXLDa/preview" width="640" height="480" ></iframe>
+<iframe src="https://drive.google.com/file/d/125yYfSkciaQhgsoQJUB-7bUKafMRGLHo/preview" width="640" height="480" ></iframe>
+<iframe src="https://drive.google.com/file/d/1TCsv3NnZBvOEVErGPb594HV3bk-aPBDz/preview" width="640" height="480" ></iframe>
+<iframe src="https://drive.google.com/file/d/13sLdaZ4bK7RyK3WK0Z1YezubG_K6yefD/preview" width="640" height="480" ></iframe>
+<iframe src="https://drive.google.com/file/d/1iL_UzsaOm5nKMuglkDIYze3KQU4qtGaw/preview" width="640" height="480" ></iframe>
 </div>

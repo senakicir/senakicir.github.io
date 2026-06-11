@@ -27,6 +27,8 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 
 ### Kurt Vonnegut
 
+[2026.04.06 - Cat's Cradle - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/1053080311)
+
 [2025.10.25 - Slaughterhouse Five - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/7130407279)
 
 [2019.09.11 - If This Isn't Nice, What Is? - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/2509128966)
@@ -34,6 +36,8 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 [2016.05.22 - Happy Birthday, Wanda June - Kurt Vonnegut Jr.](https://www.goodreads.com/review/show/1645522618)
 
 ### Non-Fiction
+
+[2025.11.01 - Marathon: The Ultimate Training Guide: Advice, Plans, and Programs for Half and Full Marathons - Hal Higdon](https://www.goodreads.com/review/show/8024295122)
 
 [2025.04.06 - The Emperor of All Maladies - Siddhartha Mukherjee](https://www.goodreads.com/review/show/6792386614)
 
@@ -52,6 +56,10 @@ Here's a list of more recent reviews that _I_ feel good about. In general, I lov
 [2020.12.27 - The Kon-Tiki Expedition - Thor Heyerdahl](https://www.goodreads.com/review/show/3664540181)
 
 ### Fiction
+
+[2026.02.02 - Piranesi - Susanne Clarke](https://www.goodreads.com/review/show/8053963714)
+
+[2026.05.11 - East of Eden - John Steinbeck](https://www.goodreads.com/review/show/1631307151)
 
 [2025.09.01 - Drive Your Plow Over The Bones Of The Dead - Olga Tokarczuk](https://www.goodreads.com/review/show/7717085096)
 
