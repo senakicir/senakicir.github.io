@@ -16,4 +16,5 @@ One thing I've always loved about old prof websites is how they put irrelevant t
 <img src="https://lh3.googleusercontent.com/d/1kWB7iZVt-3pLFB4PLI_AzLzj7QXODQOL" width="640" />
 
 <img src="https://lh3.googleusercontent.com/d/1blkciJCv2H57wj2WeRqEcWpRmqs_nLu_" width="640" />
+
 And done!
